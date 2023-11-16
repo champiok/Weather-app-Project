@@ -1,4 +1,4 @@
-# weatherly
+# Weatherly
 
 A new Flutter project.
 
